@@ -6,6 +6,8 @@ pressing `win + t`
 
 *made with Autohotkey 2.0*
 
+## [Download here!](https://github.com/ShadowDara/open-cmd-on-Hotkey/releases/tag/release)
+
 ## License
 
 Mit Shadowdara 2025
