@@ -8,6 +8,25 @@ pressing `win + t`
 
 ## [Download here!](https://github.com/ShadowDara/open-cmd-on-Hotkey/releases/tag/release)
 
+## **to add the programm to autostart**
+
+1. create a shortcut
+
+2. copy the shortcut
+   
+3. press
+```
+win + r
+```
+
+4. type
+```
+shell:startup
+```
+
+5. paste the shortcut in the folder
+
+
 ## License
 
 Mit Shadowdara 2025
