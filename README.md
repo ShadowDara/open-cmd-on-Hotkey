@@ -6,7 +6,7 @@ pressing `win + t`
 
 *made with Autohotkey 2.0*
 
-## [Download here!](https://github.com/ShadowDara/open-cmd-on-Hotkey/releases/tag/release)
+## [Download here!](https://github.com/ShadowDara/open-cmd-on-Hotkey/releases/tag/1.1)
 
 ## **to add the programm to autostart**
 
